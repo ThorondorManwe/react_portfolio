@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Mi React portfolio v1
+
+This project was created as part of the Meta Front-End Professional Certificate on Coursera.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
